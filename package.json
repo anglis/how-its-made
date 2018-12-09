@@ -1,0 +1,14 @@
+{
+  "name": "how-its-made",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Sarunas Guobis",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^3.3.1"
+  }
+}
